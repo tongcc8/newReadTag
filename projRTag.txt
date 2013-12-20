@@ -1,0 +1,7 @@
+Project Name:	projRTag
+
+Date:		5/12/2000
+Update:
+
+Funciton:
+Read RTU Tag and send to Communicator
